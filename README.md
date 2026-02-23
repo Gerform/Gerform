@@ -18,4 +18,4 @@ I am a backend / security-oriented developer.
   
 ## 📫 Contacts
 - GitHub: [@Gerform](https://github.com/Gerform)
-- LinkedIn [Oleg Bazhan](https://www.linkedin.com/in/oleg-bazhan-471563372?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- LinkedIn [Oleg Bazhan](https://www.linkedin.com/in/oleg-bazhan-471563372)
